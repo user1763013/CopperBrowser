@@ -1,0 +1,1 @@
+"C:\Users\mdsha\AppData\Local\Programs\Python\Python313\python313.exe" -m copper_browser.main
